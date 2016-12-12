@@ -1,5 +1,5 @@
 <?php
-namespace Team-of-developers;
+namespace TeamOfDevelopers;
 
 /**
  * Клиентский класс для работы с SimplePay API

@@ -1,6 +1,6 @@
 <?php
 
-namespace Team-of-developers;
+namespace TeamOfDevelopers;
 
 
 interface MerchantProviderInterface {

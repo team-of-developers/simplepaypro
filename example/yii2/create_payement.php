@@ -1,6 +1,6 @@
 <?php
 
-use Team-of-developers/SimplePay_Payment;
+use TeamOfDevelopers/SimplePay_Payment;
 
 /**
  * Здесь представлен вариант с переадресацией сразу на страницу платежной системы

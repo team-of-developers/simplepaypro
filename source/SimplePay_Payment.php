@@ -1,6 +1,6 @@
 <?php
 
-namespace Team-of-developers;
+namespace TeamOfDevelopers;
 /**
  * Структура с данными иницализации платежа
  */

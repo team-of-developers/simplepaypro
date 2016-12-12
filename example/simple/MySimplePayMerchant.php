@@ -1,6 +1,6 @@
 <?php
 
-use Team-of-developers/MerchantProviderInterface;
+use TeamOfDevelopers/MerchantProviderInterface;
 
 /**
  * Ваш интерфейс для работы с SimplePay.
